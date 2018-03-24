@@ -23,3 +23,27 @@
 全栈工程师，是指在无技术障碍的情况下，拥有极强思维能力的“软件工程师”。
 
 当你真正学会思考的时候，就能理解为什么思考比编码更重要。语言，不过是我们实现逻辑的工具，走出语言的束缚，真正的学会思考，才是一名优秀的“全栈工程师”。
+
+**值得学习**
+
+*前台*
+
+- [Bootstrap](http://v3.bootcss.com/)
+
+- [AngularJS](https://docs.angularjs.org/)
+
+- [Vue](https://vuejs.bootcss.com/)
+
+- [React](http://www.css88.com/react/)
+
+*后台*
+
+- `ThinkPHP`
+
+- `SpringMVC`
+
+- `Laravel`
+
+移动：微信小程序、`Android`
+
+桌面：`Electron`
