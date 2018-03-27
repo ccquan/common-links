@@ -48,8 +48,12 @@
 
 - [微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/framework/MINA.html)
 
-- Android
+- [Android](https://developer.android.google.cn)
 
 *桌面*
 
-- Electron
+- [Electron](https://electronjs.org/)
+
+*人工智能*
+
+- [TensorFlow](http://www.tensorfly.cn/)
