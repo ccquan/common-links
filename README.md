@@ -38,11 +38,11 @@
 
 *后台*
 
-- `ThinkPHP`
+- [ThinkPHP](https://www.kancloud.cn/yunzhiclub/thinkphp5guide)
 
-- `SpringMVC`
+- [Spring](https://spring.io/)
 
-- `Laravel`
+- [Laravel](https://laravel-china.org/docs/laravel/)
 
 移动：微信小程序、`Android`
 
