@@ -44,6 +44,12 @@
 
 - [Laravel](https://laravel-china.org/docs/laravel/)
 
-移动：微信小程序、`Android`
+*移动*
 
-桌面：`Electron`
+- [微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/framework/MINA.html)
+
+- Android
+
+*桌面*
+
+- Electron
