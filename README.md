@@ -44,6 +44,8 @@
 
 - [Laravel](https://laravel-china.org/docs/laravel/)
 
+- [Node.js](http://nodejs.cn/)
+
 *移动*
 
 - [微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/framework/MINA.html)
