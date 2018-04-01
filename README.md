@@ -52,8 +52,6 @@
 
 - [Android](https://developer.android.google.cn)
 
-- [Apple](https://developer.apple.com)
-
 *桌面*
 
 - [Electron](https://electronjs.org/)
